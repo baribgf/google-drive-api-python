@@ -1,0 +1,6 @@
+setup.py
+barigdservice.egg-info/PKG-INFO
+barigdservice.egg-info/SOURCES.txt
+barigdservice.egg-info/dependency_links.txt
+barigdservice.egg-info/requires.txt
+barigdservice.egg-info/top_level.txt
